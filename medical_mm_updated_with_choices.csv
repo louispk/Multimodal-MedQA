@@ -1,0 +1,125 @@
+question_id,image,question,choices,answer
+4,image_question_4.png,"A 55-year-old woman comes to the clinic because of a 2-month history of increasingly severe vaginal pain and itching
+during sexual intercourse. She avoids intercourse with her husband because of the symptoms. She has been in a
+monogamous relationship with her husband for the past 25 years. She has type 2 diabetes mellitus. Her vital signs are
+within normal limits. Pelvic examination shows edematous and erythematous vaginal mucosa with white discharge.
+A photomicrograph of a vaginal smear is shown. Which of the following is the most likely causal infectious agent?","['(A) Candida albicans', '(B) Chlamydia trachomatis', '(C) Herpes simplex virus', '(D) Human papillomavirus', '(E) Trichomonas vaginalis']",A
+7,image_question_7.png,"During an experiment, a mouse is vaccinated with live attenuated bacteria at two different times. The results following
+immunization are shown in the graph. The subject's serum total antibody concentration (Y-axis) was measured at
+various time points (X-axis). The response to the first immunization is indicated by Peak A, while that of the second
+immunization with the same bacterial antigen is indicated by Peak B. The phase of the immune response represented
+by the asterisk is most likely the direct result of which of the following?","['(A) Antigen recognition', '(B) Apoptosis of activated lymphocytes', '(C) B-lymphocyte expansion', '(D) Macrophage phagocytosis', '(E) T-lymphocyte activation']",B
+11,image_question_11.png,"A 25-year-old man volunteers to participate in a study of exercise. The solid curves in the graph show the relationship
+between right atrial pressure and cardiac output (cardiac function curves). The dashed lines show the relationship
+between cardiac output and right atrial pressure (vascular function curves). Point X is the pre-exercise equilibrium
+point. Which of the following labeled areas is the most likely new cardiac and vascular equilibrium point during
+exercise in this subject?","['(A) A', (B) 'B', '(C) C', '(D) D', '(E) E', '(F) F', '(G) G', '(H) H']",H
+18,image_question_18.png,"A 65-year-old woman is brought to the emergency department because of a 10-minute history of chest tightness and
+severe pain of her left arm. Physical examination shows jugular venous distention. Crackles are heard over the lung
+fields. An ECG shows ST-segment elevation greater than 1 mm in leads V4 through V6 and new Q waves. Serum
+studies show an increased troponin I concentration. Which of the following labeled points in the graph best represents
+the changes in cardiac function that occurred during the first 10 seconds after the onset of pain in this patient?","['(A) W → X', '(B) W → Y', '(C) W → Z', '(D) X → W', '(E) X → Y', '(F) X → Z', '(G) Z → W', '(H) Z → X', '(I) Z → Y']",C
+21,image_question_21.png,"A study is conducted to assess the effects of epinephrine on total peripheral resistance. An anesthetized experimental
+animal is injected with a bolus of the drug in both the presence and absence of doxazosin. The results are shown in
+the graph. Which of the following best represents the signal transduction pathways used by epinephrine to produce
+these results?","['Epinephrine Without Doxazosin Epinephrine With Doxazosin', '(A) Increased cAMP decreased cAMP', '(B) Increased cAMP decreased cGMP', '(C) Increased cGMP decreased cAMP', '(D) Increased cGMP decreased phosphoinositide turnover', '(E) Increased phosphoinositide turnover decreased cAMP', '(F) Increased phosphoinositide turnover increased cAMP']",F
+30,image_question_30.png,"A pharmaceutical company is developing a new bronchodilator agent. The graph shows concentration-response curves
+for three investigational drugs (Drugs X, Y, and Z), describing their effect on bronchial smooth muscle relaxation.
+Based on these data, which of the following best describes the relationship among these three agents?","['(A) Drug X is more potent than Drugs Y or Z', '(B) Drug X has greater efficacy than Drugs Y or Z', '(C) Drug Y is more potent than Drugs X or Z', '(D) Drug Y has greater efficacy than Drugs X or Z', '(E) Drug Z is more potent than Drugs X or Y', '(F) Drug Z has greater efficacy than Drugs X or Y']",A
+32,image_question_32.png,"A 45-year-old man comes to the physician because of a 10-year history of heartburn that occurs after he eats late at
+night or consumes spicy food. He has had no weight loss or difficulty swallowing. He takes over-the-counter antacids
+as needed, but they relieve his discomfort only temporarily. Physical examination shows no abnormalities. An
+endoscopy is done. The distal esophagus is shown in the photograph. Which of the following is the most likely cause
+of this patient's symptoms?","['(A) Defect in secretin production', '(B) Excessive gastrin production', '(C) Excessive transient lower esophageal relaxations', '(D) Failure of primary esophageal peristalsis', '(E) Failure of saliva production']",C
+34,image_question_34.png,"A 56-year-old woman comes to the physician because of a 2-year history of recurrent urinary tract infections
+accompanied by left flank pain. Physical examination shows no abnormalities. Renal ultrasonography shows left-
+sided hydronephrosis. A T2-weighted coronal MRI of the abdomen is shown; the arrow indicates the hydronephrosis.
+The left renal collecting system is most likely obstructed at which of the following anatomic locations in this patient?","['(A) Bladder neck', '(B) Mid ureter', '(C) Renal calyx', '(D) Ureteropelvic junction', '(E) Ureterovesical junction']",D
+36,image_question_36.png,"A 35-year-old man is brought to the emergency department 30 minutes after he sustained a cut on his hand while
+loading cargo at his job. He lives alone and takes most of his meals at a local restaurant. He eats mostly snack foods
+at the bar and fast food. He drinks four to six 12-oz beers daily and double that amount on weekends. He takes no
+medications. Physical examination shows a 3-cm laceration on the right hand that is bleeding steadily. Laboratory
+studies show a hemoglobin concentration of 11 g/dL, leukocyte count of 4000/mm3, and platelet count of
+150,000/mm3. A photomicrograph of a peripheral blood smear is shown. A deficiency of which of the following is the
+most likely cause of this patient's anemia?","['(A) Folic acid', '(B) Glucose-6-phosphate dehydrogenase', '(C) Iron', '(D) Vitamin B1 (thiamine)', '(E) Vitamin B6 (pyridoxine)']",A
+40,image_question_40.png,"A 22-year-old man is brought to the emergency department 15 minutes after diving off a pier into shallow water,
+striking his forehead on the bottom of the pond. He says that he felt immediate pain in his neck and then lost all ability
+to move or feel his legs. Physical examination shows that all muscle function above the level of the injury is preserved.
+A lateral x-ray of the cervical spine is shown. Which of the following functions is most likely spared in this patient?","['(A) Elbow extension', '(B) Elbow flexion', '(C) Finger abduction', '(D) Thumb abduction', '(E) Wrist flexion']",B
+42,image_question_42.png,"A previously healthy 65-year-old woman comes to the physician because of several episodes of fainting during the
+past 2 months. Each episode lasted several minutes. Her pulse is 82/min, respirations are 20/min, and blood pressure
+is 135/87 mm Hg. Cardiac examination shows S3 and S4. Echocardiography shows a pedunculated intracardiac mass.
+The lesion is resected. A photomicrograph of the resected lesion is shown. This lesion was most likely obtained from
+which of the following locations?","['(A) Interventricular septum', '(B) Left atrium', '(C) Left ventricle', '(D) Right atrium', '(E) Right ventricle']",B
+44,image_question_44.png,"A 75-year-old woman comes to the physician because of a 3-year history of pain in her wrists and hands. She says
+that the pain has become more severe during the past 3 months. She has difficulty buttoning her coat because of the
+pain. Physical examination shows the findings in the photograph. Which of the following additional hand findings is
+most likely in this patient?","['(A) Cortical thinning', '(B) Degenerative changes of the cartilage', '(C) Inflammation of digital tendons', '(D) Neutrophilic infiltration of the synovium', '(E) Thickening of the synovium with pannus']",B
+47,image_question_47.png,"A 71-year-old woman comes to the physician because of a 5-day history of a painful rash. The rash began as a burning
+sensation over the right lower side of her chest. Three days ago, small, flat, painful macules appeared that rapidly
+progressed to vesicular lesions. During this period, the pain has continually increased in severity. Her temperature is
+37.8°C (100°F), pulse is 72/min, respirations are 22/min, and blood pressure is 129/78 mm Hg. Physical examination
+shows the findings in the photograph. The rash does not cross the midline. The most likely cause of this patient's
+illness is a deficiency in which of the following components of the immune system?","['(A) Cellular', '(B) Complement', '(C) Humoral', '(D) Phagocytic cell', '(E) Toll-like receptor']",A
+53,image_question_53.png,"A 58-year-old man comes to the physician because of a 6-month history of an enlarging mass in his left scrotum.
+Physical examination shows a soft, nontender, 2-cm mass in the left scrotum inferior to the inguinal canal; the right
+testis is normal. Scrotal ultrasonography is done; longitudinal color Doppler images through the mass are shown at
+rest (Baseline) and during a Valsalva maneuver. Based on the findings shown, there is abnormal dilation of which of
+the following?","['(A) Cremasteric artery', '(B) Pampiniform plexus', '(C) Testicular artery', '(D) Testicular vein']",B
+56,image_question_56.png,"A 19-year-old man is admitted to the hospital 1 hour after he was involved in a motor vehicle collision in which he
+sustained fractures to the right clavicle, multiple ribs, and the left hip. He was traveling at 40 mph when he was thrown
+from his motorcycle and struck a tree. He did not lose consciousness. He has no history of serious illness and takes no
+medications. His temperature is 37.0°C (98.6°F), pulse is 92/min, respirations are 12/min, and blood pressure is
+106/72 mm Hg. Examination shows abrasions over the neck, right shoulder, both sides of the rib cage, and left thigh.
+Cranial nerves are intact. Muscle strength is 5/5 in the left upper and right lower extremities. Muscle strength testing
+of the left lower extremity is limited by pain. Deep tendon reflexes are 1+ in the right biceps and brachioradialis and
+2+ elsewhere. Sensation to cold and pinprick is decreased over the right shoulder. Mental status examination shows
+no abnormalities. A diagram of the site of the right shoulder injury (arrow) is shown. Further examination is most
+likely to show weakness of the right upper extremity during which of the following maneuvers?","['(A) Elbow extension', '(B) Finger abduction', '(C) Shoulder abduction', '(D) Thumb flexion', '(E) Wrist flexion']",C
+62,image_question_62.png,"A study is conducted to determine the effects on humans of replacing a portion of dietary carbohydrates with various
+fatty acids. The serum concentrations of total cholesterol, LDL-cholesterol, and HDL-cholesterol are measured. For
+every 1% energy increase in dietary trans-18:1 fatty acid, which of the following sets of results is most likely?","['(A) A', '(B) B', '(C) C', '(D) D', '(E) E']",C
+68,image_question_68.png,"A 53-year-old woman comes to the office because of a 6-year history of stiffness and pain of her hands. She has
+difficulty buttoning her clothes because of the symptoms. She takes no medications. Physical examination shows the
+findings in the photograph. An abnormality of which of the following is most likely to confirm the diagnosis in this
+patient?","['(A) Anti-citrullinated peptide antibody', '(B) Antimitochondrial antibody assay', '(C) Human leukocyte antigen-DQ2 antibody assay', '(D) Precursor of the erythroid cell line', '(E) Precursor of the thrombopoietic line']",A
+77,image_question_77.png,"A 14-year-old girl is brought to the office by her mother because of a 3-month history of red bumps on her skin. The
+patient says the bumps are not itchy or painful but that she finds them embarrassing. She has no history of major
+medical illness and takes no medications. Her vital signs are within normal limits. Physical examination shows the
+findings in the photograph. Which of the following is the most likely diagnosis?","['(A) Eczema', '(B) Folliculitis', '(C) Hidradenitis', '(D) Keratosis pilaris', '(E) Urticaria']",D
+80,image_question_80.png,"A 65-year-old woman has congestive heart failure for which she is treated with an appropriate drug regimen including
+an ACE inhibitor. Because of insufficient improvement in her symptoms of dyspnea on exertion and edema, the
+physician prescribes a second agent that results in hyperkalemia. This adverse effect most likely resulted from a drug
+that targets which of the following labeled locations in the diagram of a nephron?","['(A) A', (B) 'B', '(C) C', '(D) D', '(E) E']",E
+85,image_question_85.png,"A 65-year-old woman with a history of rheumatic mitral valve disease is brought to the emergency department 30
+minutes after the sudden onset of right-sided weakness and inability to speak. Neurologic examination shows
+weakness of the right lower side of the face and difficulty swallowing. Muscle strength is 3/5 on the right side. She
+can understand what is said to her, but she cannot repeat words or answer questions. An ECG shows atrial fibrillation.
+The most likely cause of the neurologic findings in this patient is occlusion of which of the following labeled arteries
+in the photograph of a normal brain?","['(A) A', '(B) B', '(C) C', '(D) D', '(E) E']",D
+88,image_question_88.png,"A 1928-g (4-lb 4-oz) female newborn is delivered in the hospital at 35 weeks' gestation to a 24-year-old primigravid
+woman. The pregnancy was complicated by a lack of prenatal care. Apgar scores are 3 and 5 at 1 and 5 minutes,
+respectively. Examination of the newborn shows cyanosis, grunting, and chest retractions. An x-ray of the chest and
+abdomen is shown; the arrow indicates abnormally placed bowel loops. Based on these findings, which of the
+following most likely failed to develop normally in this newborn?","['(A) Aortic hiatus', '(B) Central tendon of the diaphragm', '(C) Fibrous pericardium', '(D) Pleuroperitoneal fold']",D
+89,image_question_89.png,"A 68-year-old man with alcohol use disorder comes to the office because of a 3-month history of intermittent blood
+in his urine; he has had no pain. He is a retired laboratory technician from a company that produces naphthylamine.
+He has smoked 1½ packs of cigarettes daily for 45 years. A CT scan of the abdomen shows a mass in the pelvis of the
+left kidney. A photograph of the surgically resected kidney is shown. The neoplastic process in this kidney is most
+likely to be which of the following?","['(A) Angiomyolipoma', '(B) Metastatic melanoma', '(C) Nephroblastoma', '(D) Oncocytoma', '(E) Urothelial carcinoma']",E
+100,image_question_100.png,"A 24-year-old man comes to the office because of a 3-day history of blisters on the right side of his mouth accompanied
+by burning pain and a tingling sensation. He underwent a liver transplant 8 years ago for hepatolenticular degeneration
+(Wilson disease). Current medications are prednisone and tacrolimus. His temperature is 38.0°C (100.4°F), pulse is
+78/min, respirations are 14/min, and blood pressure is 120/80 mm Hg. Physical examination shows the findings in the
+photograph. Well-healed surgical scars are noted on the abdomen. A drug that inhibits which of the following
+processes is most appropriate for this patient?","['(A) DNA replication', '(B) Nucleotide phosphorylation', '(C) Protein synthesis', '(D) Viral budding', '(E) Viral uncoating']",A
+105,image_question_105.png,"A 5-year-old boy is brought to the office by his mother because of a 2-week history of intermittent bloody stools. He
+is otherwise asymptomatic. He has no history of major medical illness and receives no medications. He does not
+appear to be in distress. Vital signs are within normal limits. Physical examination shows no abnormalities. Laboratory
+studies show mild, normocytic anemia; other results are within the reference ranges. Test of the stool for occult blood
+is positive. Photomicrographs of biopsy specimens obtained on colonoscopy are shown. Which of the following is the
+most likely diagnosis?","['(A) Adenocarcinoma', '(B) Carcinoid tumor', '(C) Hamartomatous polyp', '(D) Hyperplastic polyp', '(E) Inflammatory polyp', '(F) Tubular adenoma']",C
+113,image_question_113.png,"A 52-year-old man is admitted to the hospital because of a 2-hour history of vomiting bright red blood. His pulse is
+125/min, and blood pressure is 90/60 mm Hg. Physical examination shows jaundice and visible blood vessels
+surrounding the umbilicus. CT scans of the abdomen are shown. To decrease portal venous pressure in this patient, it
+is most appropriate to place a shunt between the portal vein and which of the following additional vessels?","['(A) Inferior mesenteric vein', '(B) Inferior vena cava', '(C) Left gastric vein', '(D) Splenic vein', '(E) Superior mesenteric vein']",B
